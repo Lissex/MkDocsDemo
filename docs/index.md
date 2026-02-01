@@ -1,17 +1,50 @@
-# Welcome to MkDocs
+# 👨‍💻 Грачья Айвазян
+### Студент-разработчик | Python Backend
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
 
-## Commands
+## 🎓 Образование
+**Колледж цифровых технологий «ТОП»**  
+*2 курс, специальность "Разработчик программного обеспечения"*  
+*г.Обнинск, 2024–2026*
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 🔧 Мой стек
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Backend
+- **Python:** FastAPI, SQLAlchemy, Pydantic
+- **Базы данных:** PostgreSQL, Redis
+- **Очереди:** Kafka (изучаю)
+- **Контейнеризация:** Docker, Docker Compose
+
+### Другие технологии
+- **Языки:** C++ (базово), SQL, Bash
+- **Инструменты:** Git, Nginx, Linux
+
+---
+
+## 📈 LeetCode Статистика
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Wivvexx?theme=dark&font=Karla&ext=activity" alt="LeetCode Stats" width="500" />
+  <p><small>Моя активность на LeetCode (обновляется автоматически)</small></p>
+</div>
+
+---
+
+## 📂 Мои проекты
+
+Здесь скоро появятся мои проекты. Пока что все эксперименты можно посмотреть на [GitHub](https://github.com/WIVVEX).
+
+---
+
+## 📫 Контакты
+
+- **GitHub:** [WIVVEX](https://github.com/WIVVEX)
+- **Telegram:** [@ewooni](https://t.me/ewooni)
+- **Почта:** delovoygrach@gmail.com
+
+---
+
+> 💡 *Этот сайт сделан с помощью MkDocs и обновляется по мере обучения.*
