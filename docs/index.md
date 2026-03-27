@@ -35,13 +35,13 @@
 
 ## 📂 Мои проекты
 
-Здесь скоро появятся мои проекты. Пока что все эксперименты можно посмотреть на [GitHub](https://github.com/WIVVEX).
+Здесь скоро появятся мои проекты. Пока что все эксперименты можно посмотреть на [GitHub](https://github.com/Lissex).
 
 ---
 
 ## 📫 Контакты
 
-- **GitHub:** [WIVVEX](https://github.com/WIVVEX)
+- **GitHub:** [WIVVEX](https://github.com/Lissex)
 - **Telegram:** [@ewooni](https://t.me/ewooni)
 - **Почта:** delovoygrach@gmail.com
 

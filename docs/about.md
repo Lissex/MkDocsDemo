@@ -100,7 +100,7 @@
 
 ## 🛠 Этот сайт
 Сделан на **MkDocs** с темой **Material**.  
-Исходный код доступен в [репозитории](https://github.com/WIVVEX/MkDocsDemo).
+Исходный код доступен в [репозитории](https://github.com/Lissex/MkDocsDemo).
 
 ---
 
